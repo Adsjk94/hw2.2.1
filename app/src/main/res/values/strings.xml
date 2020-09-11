@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2.2.1</string>
+    <string name="btnSave">Сохранить</string>
+    <string name="toastDataSaved">данные сохранены</string>
+</resources>
